@@ -1,4 +1,4 @@
-# Coursera Getting and Cleaning Data course project
+# Getting and Cleaning Data README file
  In this project, data collected from the accelerometer and gyroscope of the Samsung Galaxy S smartphone was retrieved, worked with, and cleaned, to prepare a tidy data that can be used for later analysis.
 
 This repository contains the following files:
