@@ -1,4 +1,4 @@
-# Code book for Getting and Cleaning Data course project
+## Code book for Getting and Cleaning Data
 
 The structure of the data set is described in the data section, its variables are listed in thevariables section, and the transformations that were carried out to obtain the data set based on the source data are presented in the transformations section.
 
