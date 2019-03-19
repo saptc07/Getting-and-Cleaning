@@ -1,6 +1,6 @@
 # Code book for Getting and Cleaning Data course project
 
-The structure of the data set is described in the [Data](#data) section, its variables are listed in the [Variables](#variables) section, and the transformations that were carried out to obtain the data set based on the source data are presented in the [Transformations](#transformations) section.
+The structure of the data set is described in the data section, its variables are listed in thevariables section, and the transformations that were carried out to obtain the data set based on the source data are presented in the transformations section.
 
 ## Data <a name="data"></a>
 
